@@ -1,0 +1,6 @@
+{
+  "name": "Nexus AI",
+  "description": "Futuristic AI Video & Art Generator with Daily Credits, Motion VFX, and Studio Player",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
